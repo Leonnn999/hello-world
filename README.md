@@ -3,4 +3,4 @@ Testing out git
 
 Editor:Kav
 
-Just testing out how git works with the edits
+Just testing out how git works with the editss
